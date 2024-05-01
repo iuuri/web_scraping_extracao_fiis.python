@@ -1,0 +1,4 @@
+Para utilizar o Script é preciso que o python e suas bibliotecas estejam instaladas em sua maquina. 
+Primeiro instale o python. Acesse https://www.python.org/downloads/ e baixe a versão compativel com sua maquina. 
+Após instação do python é preciso instalar as bibliotecas, basta executar o comando "pip install -r requirements.txt" que o processo acontecerá de forma automatica. 
+Agora execute o arquivo "app.py" para que o script realize a extração e criação da planilha com os FIIs. 
