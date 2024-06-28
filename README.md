@@ -12,6 +12,7 @@ selenium
 webdriver-manager
 pandas
 openpyxl
+
 Você pode instalá-las utilizando o seguinte comando:
 - pip install -r requirements.txt
   
